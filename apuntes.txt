@@ -1,0 +1,87 @@
+Introducción
+***Clase 1 ¿Qué necesitas saber para tomar el curso?***
+
+
+
+***Clase 2 ¿Cómo funciona Python?***
+
+
+
+***Clase 3 Cómo organizar las carpetas de tus proyectos***
+
+
+
+Static Typing
+***Clase 4 ¿Qué son los tipados?***
+
+
+
+***Clase 5 Tipado estático en Python***
+
+
+
+***Clase 6 Practicando el tipado estático***
+
+
+
+Conceptos avanzados de funciones
+***Clase 7 Scope: alcance de las variables***
+
+
+
+***Clase 8 Closures***
+
+
+
+***Clase 9 Programando closures***
+
+
+
+***Clase 10 Decoradores***
+
+
+
+***Clase 11 Programando decoradores***
+
+
+
+Estructuras de datos avanzadas
+***Clase 12 Iteradores***
+
+
+
+***Clase 13 La sucesión de Fibonacci***
+
+
+
+***Clase 14 Generadores***
+
+
+
+***Clase 15 Mejorando nuestra sucesión de Fibonacci***
+
+
+
+***Clase 16 Sets***
+
+
+
+***Clase 17 Operaciones con sets***
+
+
+
+***Clase 18 Eliminando los repetidos de una lista***
+
+
+
+Bonus
+***Clase 19 Manejo de fechas***
+
+
+
+***Clase 20 Time zones***
+
+
+
+Conclusión
+***Clase 21 Completaste la trilogía. ¿Cómo seguir?***
